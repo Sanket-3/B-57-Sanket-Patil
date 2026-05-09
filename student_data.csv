@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Age,Department,Marks,Attendance,City
+1,Amit,Male,20.0,Computer,78.0,85.0,Pune
+2,Priya,Female,21.0,IT,88.0,90.0,Mumbai
+3,Rahul,Male,19.0,Mechanical,67.0,75.0,Nashik
+4,Sneha,Female,22.0,Computer,92.0,95.0,Pune
+5,Akash,Male,20.0,Civil,55.0,60.0,Aurangabad
+6,Neha,Female,21.0,IT,73.0,80.0,Mumbai
+7,Rohan,Male,23.0,Mechanical,49.0,65.0,Nagpur
+8,Kajal,Female,20.0,Computer,81.0,88.0,Pune
+9,Arjun,Male,22.0,Civil,60.0,70.0,Nashik
+10,Pooja,Female,19.0,IT,77.0,85.0,Mumbai
+11,Vikas,Male,,Computer,85.0,90.0,Pune
+12,Anjali,Female,21.0,,91.0,92.0,Nagpur
+13,Karan,Male,20.0,Civil,,78.0,Aurangabad
+14,Meena,Female,22.0,Mechanical,69.0,,Nashik
+15,Deepak,Male,21.0,IT,74.0,82.0,
